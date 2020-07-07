@@ -58,7 +58,12 @@ una grafica cada valor de SNR no obstante solo se muestra el correspondiente a -
 ![densida_antes_ruido.png](densida_antes_ruido.png)![densidad_ruido_-4dB.png](densidad_ruido_-4dB.png)
 
 ### PUNTO 5
-En este punto se establece            se utilizó un umbral definido por Ep>Es/2. En la imagen que se muestra a continuación se puede ver una gráfica de los errores respecto al nivel SNR.
+En este punto se establece un umbral dado por Ep>Es/2. En la siguiente imagen se muestran los resultados para cada valor del intervalo de SNR  
+![densida_antes_ruido.png](densida_antes_ruido.png)
+
+
+### PUNTO 6
+![SNR_vrs_BER.png](SNR_vrs_BER.png
 _**T**_
 
 
