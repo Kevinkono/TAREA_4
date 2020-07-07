@@ -1,4 +1,4 @@
-# **PROCEOS ALEATORIOS** 
+# **PROCESOS ALEATORIOS** 
  Universidad de Costa Rica\
  Modelos Probabilisticos de señales y sistemas\
  KEVIN PICADO SOTO A94779
@@ -59,12 +59,12 @@ una grafica cada valor de SNR no obstante solo se muestra el correspondiente a -
 
 ### PUNTO 5
 En este punto se establece un umbral dado por Ep>Es/2. En la siguiente imagen se muestran los resultados para cada valor del intervalo de SNR  
-![densida_antes_ruido.png](densida_antes_ruido.png)
+![tasa_error.png](tasa_error.png)
 
 
 ### PUNTO 6
-![SNR_vrs_BER.png](SNR_vrs_BER.png
-_**T**_
+![SNR_vrs_BER.png](SNR_vrs_BER.png)
+
 
 
 
