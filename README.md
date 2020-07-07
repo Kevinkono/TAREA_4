@@ -60,11 +60,13 @@ una grafica cada valor de SNR no obstante solo se muestra el correspondiente a -
 
 ### PUNTO 5
 En este punto se establece un umbral dado por Ep>Es/2. En la siguiente imagen se muestran los resultados para cada valor del intervalo de SNR  
+
 ![tasa_error.PNG](tasa_error.PNG)
 
 
 ### PUNTO 6
 Finalmente se grafican los errores con respecto a cada SNR donde se puede observar el comportamiento de esta relacion y se nota que entre menor sea el nivle de los decibeles mayor es el error que se presenta por lo cual son inversamente proporcionales, para apreciar mejor esto fue que anteriormente se cambio el intervalo de valores SNR [-2,3] original a el utilizado [-4,1]
+
 ![SNR_vrs_BER.png](SNR_vrs_BER.png)
 
 Con el intervalo original de [2,-3] la grafica se hubiera comportado con menos errores porque los valores de SNR en dB son mayores, como se aprecia a continuacion
