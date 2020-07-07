@@ -28,7 +28,8 @@ Periodo: _**T = 1/f**_ , el cual es equivalente a un período del símbolo y _**
 
 ![onda_portadora.png](onda_portadora.png)  
 
-Ahora Se procede a generar la señal modulada BPSK, para obtenerla se adiga a la onda senosoidal (sen(x)) cuando el bit es 1 y su negativo (-sen(x)) cuando el bit es 0, esta manera para los primeros 5 bits a 50 puntos cada uno  se obtiene la siguiente señal:
+Ahora Se procede a generar la señal modulada BPSK, para obtenerla se adiga a la onda senosoidal (sen(x)) cuando el bit es 1 y su negativo (-sen(x)) cuando el bit es 0, esta manera para los primeros 5 bits a 50 puntos cada uno se obtiene la siguiente señal:
+
 ![senal_modulada.png](senal_modulada.png)
 
 ### PUNTO 2
@@ -59,7 +60,7 @@ una grafica cada valor de SNR no obstante solo se muestra el correspondiente a -
 
 ### PUNTO 5
 En este punto se establece un umbral dado por Ep>Es/2. En la siguiente imagen se muestran los resultados para cada valor del intervalo de SNR  
-![tasa_error.png](tasa_error.png)
+![tasa_error.PNG](tasa_error.PNG)
 
 
 ### PUNTO 6
